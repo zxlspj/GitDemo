@@ -2,7 +2,6 @@ package com.zxl;
 
 public class gitDemo {
     public static void main(String[] args) {
-        System.out.println("third commit in master");
-        System.out.println("second commit in hot-fix");
+        System.out.println("在master分支上做了一次修改");
     }
 }
